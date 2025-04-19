@@ -1,3 +1,5 @@
 # LinkedIn Learning - Level Up: C++
 
-Using C++20
+My solutions for the LinkedIn Learning course Level Up: C++
+
+I am using C++20

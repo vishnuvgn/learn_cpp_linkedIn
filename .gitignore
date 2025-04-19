@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+
+.vscode
+.DS_Store
+
+/bitonic/main
+/complex_numbers/main
+/factorial/main
+/fizzbuzz/main
+/horseplay/main
+/palindrome/main
+/sort/main

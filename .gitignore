@@ -35,6 +35,7 @@
 .vscode
 .DS_Store
 
+# executables
 /bitonic/main
 /complex_numbers/main
 /factorial/main
@@ -42,3 +43,4 @@
 /horseplay/main
 /palindrome/main
 /sort/main
+/ip_address/main

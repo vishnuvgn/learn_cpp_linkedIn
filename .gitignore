@@ -36,11 +36,14 @@
 .DS_Store
 
 # executables
-/bitonic/main
-/complex_numbers/main
-/factorial/main
-/fizzbuzz/main
-/horseplay/main
-/palindrome/main
-/sort/main
-/ip_address/main
+bitonic/main
+complex_numbers/main
+factorial/main
+fizzbuzz/main
+horseplay/main
+palindrome/main
+sort/main
+ip_address/main
+faulty/main
+age_in_days/main
+game_of_life/main

@@ -169,7 +169,14 @@ int main() {
 
     std::cout << "----------------------------" << std::endl;
 
-    std::cout << "Press enter to start / go to the next iteration" << std::endl;
+    std::cout << "Press just enter to start. Anything else (+ enter) to quit." << std::endl;
+    std::string input;
+    getline(std::cin, input); 
+    if (input.length() != 0) {
+        return 0;
+    }
+
+    // std::cout << "Press enter to start / go to the next iteration" << std::endl;
 
     int i = 0;
 
